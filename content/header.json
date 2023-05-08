@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Na N&D você não fica sem presente!",
+    "text": "N&D Presentes Personalizados",
     "link": ""
   },
   "contacts_stripe": {
@@ -10,8 +10,8 @@
         "link": ""
       },
       {
-        "title": "Prontos para te ajudar!",
-        "link": ""
+        "title": "Na N&D você não fica sem presente!",
+        "link": "Prontos para te ajudar"
       }
     ],
     "phone_wpp": true,
