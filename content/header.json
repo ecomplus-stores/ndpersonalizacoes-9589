@@ -1,13 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Na N&D você não fica sem presente!",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "N&D Personalizações nasceu a 17 anos, somos um empresa que trabalha em família, com muito amor, compromisso. Trabalhamos com presentes personalizados.",
+        "link": ""
       },
       {
         "title": "Esta loja é um PWA",
