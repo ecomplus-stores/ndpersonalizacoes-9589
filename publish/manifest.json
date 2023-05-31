@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9fdeecb3d944e5091569890b7059c2ad.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.60dca47c1412344a898860a1b23fc3ff.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.f3063bb9b3fe5d78b5e7a6c5541be4c2.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.3613ac64d7e3dab4f77de0b8ea956135.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.4b7282280f42eaeed438f00e9b2c1e91.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "ndpersonalizacoes",
+  "short_name": "ndpersonalizacoes",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "N&D Personalizações nasceu a 17 anos, somos um empresa que trabalha em família, com muito amor, compromisso. \nTrabalhamos com presentes personalizados.",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
